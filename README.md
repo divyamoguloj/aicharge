@@ -61,4 +61,5 @@ How could your project grow and become something even more? What kind of skills,
 
 ## Acknowledgments
 
-* Stanke & Waack, 2003: Gene prediction with a hidden Markov model and a new intron submodel. Bioinformatics, Volume 19, Issue suppl_2, 27 September 2003, Pages ii215–ii225, https://doi.org/10.1093/bioinformatics/btg1080
+* Stanke & Waack, 2003: Gene prediction with a hidden Markov model and a new intron submodel. Bioinformatics, Volume 19, Issue suppl_2, Pages ii215–ii225, https://doi.org/10.1093/bioinformatics/btg1080
+* Stanke et al. 2006: Gene prediction in eukaryotes with a generalized hidden Markov model that uses hints from external sources. BMC Bioinformatics volume 7, Article number: 62
