@@ -13,7 +13,7 @@ aicharge is an AI based solution that quickly populates ("charges") a newly asse
 
 Building a reference genome of a species from the sequencing reads is called genome assembly. After the assemby is done the next part is to find locations of genes in the genome. Although tools exist, AI-based solutions in this space are still very scarce. aicharge aims also to be a fast and easy-to use solutions despite the size of the reference genome.
 
-aicharge solves the genome annotation problem, i.e. finding all locations of all genes in a reference genome, given nothing but the assembled genome sequence of (A, T, C G).
+aicharge solves the genome annotation problem, i.e. finding all locations of all genes in a reference genome, given nothing but the assembled genome sequence that consists of sequences of A, T, C, & G.
 
 This author has worked as a bioinformatician building eukaryote genomes. Training your gene prediction tool after the assembly stage is really cumbersome work with the present tools. The authors of another popular ab initio gene prediction tool AUGUSTUS (Stanke & Waack 2003, Stanke et al. 2006) have announced that they will do the training for you in exchange for money. aicharge aims to take all this cumbersomeness away.
 
