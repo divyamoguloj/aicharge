@@ -1,4 +1,4 @@
-# aicharge
+![AI-charge](/strang.png)
 AI-based fast ab initio gene prediction
 
 Final project for the Building AI https://buildingai.elementsofai.com/ course
