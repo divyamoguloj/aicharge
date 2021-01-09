@@ -50,7 +50,7 @@ def main():
          aicharge(starts)
          
 
-   TODO: Output logic (gff3)
+   #TODO: Output logic (gff3)
 
 main()
 ```
@@ -66,7 +66,7 @@ TODO: Find most suitable AI method for this or set the program logic to try mult
 
 ## Challenges
 
-AI-charge finds gene models (annotations) ab initio in an input genome assembly. In animal genomes this will sum up to 10,000 - 100,000 gene models in total. The results should be manually curated using e.g. Apollo (Dunn et al. 2011) or otherwise verified before publication.
+AI-charge finds gene models (annotations) ab initio in an input genome assembly. In animal genomes this will sum up to 10,000 - 100,000 gene models in total. The results should be manually curated using e.g. Apollo (Dunn et al. 2019) or otherwise verified before publication.
 
 ## What next?
 
