@@ -12,7 +12,7 @@ Final project for the Building AI https://buildingai.elementsofai.com/ course
 
 ## Summary
 
-AI-charge is an AI based solution that quickly populates ("charges") a newly assembled reference genome with gene predictions that can then be further curated and annotated.
+AI-charge is an AI based command line utility that quickly populates ("charges") a newly assembled reference genome with gene predictions that can then be further curated and annotated.
 
 
 ## Background
@@ -60,9 +60,9 @@ Output will be a General Feature Format version 3 (gff3) file that specifies the
 
 ## Data sources and AI methods
 
-Input data: Genome assembly in singleline (=non-multifasta) FASTA format
-Training logic: Train and test data from known cDNA databases, specify at input wheter prokaryote (bacterium) or eukaryote (micro-organism, plant, animal etc.) genome.
-TODO: Find most suitable AI method for this or set the program logic to try multiple and then present accuracy / precision results to the user.
+* Input data: Genome assembly in singleline (=non-multifasta) FASTA format
+* Training logic: Train and test data from known cDNA databases, specify at input wheter prokaryote (bacterium) or eukaryote (micro-organism, plant, animal etc.) genome.
+* TODO: Find most suitable AI method for this or set the program logic to try multiple and then present accuracy / precision results to the user.
 
 ## Challenges
 
